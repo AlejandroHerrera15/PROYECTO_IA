@@ -5,5 +5,5 @@
 - Juan Jose Isaza, CC 1000633749, Ingeniería Industrial
 
 # Datos
-Los datos del proyecto vienen de La competición Kaggle Titanic, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+Los datos del proyecto vienen de La competición Kaggle NFL Big Data Bowl, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
