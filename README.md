@@ -5,5 +5,7 @@
 - Juan Jose Isaza, CC 1000633749, Ingeniería Industrial
 
 # Datos
-Los datos del proyecto vienen de La competición Kaggle Costa Rican Household Poverty Level Prediction
+Los datos del proyecto vienen de [La competición Kaggle ADAMS SoSe23](https://www.kaggle.com/competitions/adams-sose23/overview), Predicting prices of AirBnB listings in the city of London
 
+# Videos
+- 
