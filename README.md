@@ -8,4 +8,4 @@
 Los datos del proyecto vienen de [La competición Kaggle ADAMS SoSe23](https://www.kaggle.com/competitions/adams-sose23/overview), Predicting prices of AirBnB listings in the city of London
 
 # Videos
-- 
+1. [Video 1](https://youtu.be/FTPcVcxzTJI)
