@@ -9,3 +9,4 @@ Los datos del proyecto vienen de [La competición Kaggle ADAMS SoSe23](https://w
 
 # Videos
 1. [Video 1](https://youtu.be/FTPcVcxzTJI)
+2. [Video 2](https://youtu.be/ei5IGULNsCo)
